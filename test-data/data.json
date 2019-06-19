@@ -1,0 +1,38 @@
+{
+    "test0": {
+        "type": "text",
+        "info": 
+            {
+                "selector": "#developer-name",
+                "value": "Laura testing"
+            }
+    },
+
+    "test1":  {
+        "type": "checkbox",
+        "info": 
+            {
+                "select-options-num": 2,
+                "selector": [
+                    "#background-parallel-testing",
+                    "#remote-testing'"
+                ]
+            }
+    },
+
+    "test2": {
+        "type": "radio",
+        "info": 
+            {
+                "selector": "#macos"
+            }
+    },
+
+    "test3": {
+        "type": "dropdown",
+        "info": {
+            "selector": "#preferred-interface",
+            "value": "JavaScript API"
+        }
+    }
+}

@@ -1,0 +1,107 @@
+/* line 1, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+/* line 5, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+header {
+  width: auto;
+  margin: 2%;
+  padding: 3%;
+}
+
+/* line 11, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+form {
+  margin: 2%;
+  padding: 3%;
+  background-color: #393939;
+  color: #fff;
+}
+
+/* line 16, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+form fieldset {
+  border: none;
+}
+
+/* line 20, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+form legend {
+  font-weight: 600;
+  background-color: #ff6767;
+  padding: 1%;
+  margin-bottom: 1%;
+  margin-top: 1%;
+  color: #393939;
+}
+
+/* line 29, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+button {
+  background-color: #d6995b;
+  width: 30%;
+  border: none;
+  color: #000;
+  padding: 2%;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+/* line 38, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+nav ul {
+  list-style: none;
+  background-color: #eaedf3;
+}
+
+/* line 42, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+a {
+  color: #000;
+  text-decoration: none;
+  background-color: #5ccdc9;
+  padding: 1%;
+  margin: 1%;
+}
+
+/* line 49, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+h2 {
+  margin: 2%;
+}
+
+/* line 52, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+nav {
+  background-color: #e8ebf2;
+  width: 30%;
+  margin: 1%;
+  overflow: hidden;
+}
+
+/* line 58, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+img {
+  width: 100%;
+}
+
+/* line 61, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+.success {
+  margin: 3%;
+  padding: 2%;
+  background-color: #e8ebf2;
+  width: 80%;
+  margin-right: 5%;
+  margin-left: 6%;
+}
+
+/* line 69, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+.success img {
+  width: 10%;
+  margin-right: 10%;
+  margin-left: 45%;
+}
+
+/* line 74, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+.success h2, .success p {
+  text-align: center;
+}
+
+/* line 77, /Users/lauracelis/Desktop/testcafe/styles/sass/styles.scss */
+h1 {
+  display: inline;
+}
+
+/*# sourceMappingURL=../css/styles.map */

@@ -1,0 +1,32 @@
+{
+    "test0":  {
+        "type": "checkbox",
+        "info": 
+            {
+                "selector": "#idName"
+            }
+    },
+    "test1": {
+        "type": "text",
+        "info": 
+            {
+                "selector": "#idName",
+                "value": "text to insert"
+            }
+    },
+    "test2": {
+        "type": "radio",
+        "info": 
+            {
+                "selector": "#idName"
+            }
+    },
+    "test3": {
+        "type": "dropdown",
+        "info": {
+            "selector": "selectTag ID name",
+            "find": "tag name to be found - option for dropdown",
+            "targetValue": "value wanted to select in drop down"
+        }
+    }
+}
